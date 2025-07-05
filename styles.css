@@ -145,7 +145,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" fill="white" opacity="0.1"><polygon points="0,0 0,100 1000,100"/></svg>') no-repeat center bottom;
+    background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAwIDEwMCIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuMSI+PHBvbHlnb24gcG9pbnRzPSIwLDAgMCwxMDAgMTAwMCwxMDAiLz48L3N2Zz4=') no-repeat center bottom;
     background-size: cover;
 }
 
